@@ -1,0 +1,10 @@
+1;Reminiscence;nice;SF, Romantic, Thriller
+2;Yes day;funny;Family
+3;No Time to Die;very good;Actiune, Thriller
+4;Dune;very good;SF
+5;Eternals;good;Actiune, SF
+6;House of Gucci;well but not great;Thriller
+7;Breathe;amazing;Romantic
+8;Side effects;great;Drama
+9;King Arthur;bdbskjh;Actiune, Drama
+10;seiufg;jbfdsiu;actiune

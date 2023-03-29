@@ -1,0 +1,10 @@
+1;Oniga Andreea;1;Reminiscence
+1;Oniga Andreea;2;Yes day
+1;Oniga Andreea;4;Dune
+2;Marginean Sebastian;1;Reminiscence
+3;Solea Andra;2;Yes day
+3;Solea Andra;6;House of Gucci
+4;Oniga Maria;1;Reminiscence
+6;Avram Daniel;7;Breathe
+8;Cristea Adrian;4;Dune
+8;Cristea Adrian;7;Breathe

@@ -1,0 +1,8 @@
+1;Oniga Andreea;9206473849647
+2;Marginean Sebastian;5011017011825
+3;Solea Andra;9235462453672
+4;Oniga Maria;9224536245678
+5;Aloman Dumitru;9354245682935
+6;Avram Daniel;9134253679866
+7;Oltean Adina;2341567234789
+8;Cristea Adrian;2451367778923
